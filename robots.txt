@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-ggb7o5.plcwin.xyz/sitemap.xml
